@@ -2,15 +2,10 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left">🧑‍🎓 About Me:</h3>
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently reading Computer Science at UCSC<br>🎯 Java enthusiast | Backend nerd | Competitive programmer <br>🎲 Volunteer | Public Speaker</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 Currently a third year Computer Science Undergrad at UCSC<br>🎯 Java enthusiast | Backend nerd | Competitive programmer <br>🎲 Volunteer | Public Speaker</p>
 
 ###
 
@@ -23,12 +18,9 @@
 ###
 
 <h2 align="left">🔍 Skills</h2>
-
-###
+<table><tr><td valign="top" width="33%">
 
 <p align="left">🌟 Programming Langs</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -44,7 +36,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
 </div>
 
-###
+<p align="left">🌟 Designing Tools</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+</td><td valign="top" width="33%">
+
 
 <p align="left">🌟 Frontend Technologies</p>
 
@@ -57,9 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -69,14 +71,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+<p align="left">🌟 Libraries & API</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+</div>
+
+</td><td valign="top" width="33%">
 
 <p align="left">🌟 Backend Technologies</p>
 
@@ -101,33 +108,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
+</td></tr></table>
+
+
+<h2 align="left">🔍 Github Profile Stats</h2>
 
 ###
 
-<p align="left">🌟 Libraries & API</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-</div>
-
-###
-
-<p align="left">🌟 Designing Tools</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+<p align= "justify">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Mashi-Abeywickrama&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashi-Abeywickrama&theme=react&layout=compact" />
+</p>
 
 ###
